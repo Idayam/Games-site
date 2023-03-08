@@ -1,0 +1,152 @@
+.list li{
+    display: inline;
+    justify-content: space-between;
+    list-style: none;
+    padding: 40px;
+    padding-left: 100px;
+}
+
+.head{
+    border: solid;
+    background-color: yellow;
+}
+#brick{
+    width: 50px;
+}
+#h3{
+    padding-left: 60px;
+    margin-top: -50px;
+}
+#icon{
+    width: 50px;
+    padding-left: 220px;
+    margin-top: -55px;
+}
+#search{
+    padding-left: 220px;
+    margin-bottom: -200px;
+    margin-top: -90px;
+}
+.riv{
+width: 60%;
+border: solid;
+background-image: url(images/riverndell.webp);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 400px;
+
+
+}
+#pic{
+width: 500px;
+height: 200px;
+}
+.content{
+    border: solid 0.5px;
+    float: right;
+    width: 30%;
+    border-radius: 40px;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 20px;
+}
+#war3{
+    width: 270px;
+}
+#logo2{
+    width: 270px;
+    border-radius: 10px;
+}
+#heart{
+    float: right;
+    padding: 0 20px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+.top{
+    width: 100%;
+    display: flex;
+}
+button{
+    padding:10px 30px;
+    margin-top: 10px;
+    border-radius: 10%;
+    background-color: rgb(235, 183, 86);
+
+}
+.ages ul li{
+list-style: none;
+display: inline;
+border: solid 0.3px black;
+border-radius: 6px;
+justify-content: space-around;
+padding: 0 8px;
+}
+#word{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.toons{
+    width: 100%;
+    display: flex;
+
+}
+.one{
+    width: 20%;
+    padding: 0 15px;
+}
+#recent{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(107, 9, 107);
+
+}
+footer ul li{
+    list-style: none;
+    color: white;
+    
+
+}
+#discount1{
+    width: 270px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+#new{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#series{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#but{
+    margin-left: 47%;
+}
+#counts{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.purchase{
+background-color: yellow;
+}
+.form{
+    display: flex;
+    justify-content: space-around;
+}
